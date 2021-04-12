@@ -1,0 +1,17 @@
+{
+  "name": "bsc-dex_check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uniswap/sdk": "^2.0.5",
+    "ethers": "^5.0.23",
+    "web3": "^1.3.0",
+    "dotenv": "^8.2.0"
+  }
+}
